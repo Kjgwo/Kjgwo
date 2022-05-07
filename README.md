@@ -5,10 +5,7 @@
 ### 🌱 I’m currently learning ...
 ---
 #### Learned Languages
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/><img src="https://img.shields.io/badge/dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/><img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 <!--
 **Kjgwo/Kjgwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
